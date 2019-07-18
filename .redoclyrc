@@ -1,0 +1,8 @@
+
+apiTitle: testy
+splitSpec: true
+codeSamples: true
+swaggerUI: true
+travis: true
+repo: evenstensberg/test-api
+oasVersion: 3.0.0
