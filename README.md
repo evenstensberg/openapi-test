@@ -1,5 +1,5 @@
 # testy OpenAPI Specification
-[![Build Status](https://travis-ci.com/evenstensberg/test-api.svg?branch=master)](https://travis-ci.com/evenstensberg/test-api)
+[![Build Status](https://travis-ci.com/evenstensberg/openapi-test.svg?branch=master)](https://travis-ci.com/evenstensberg/openapi-test)
 ## Steps to finish
 
 1. Enable [Travis](https://docs.travis-ci.com/user/getting-started/#To-get-started-with-Travis-CI%3A) for your repository (**note**: you already have `.travis.yml` file)
